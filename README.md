@@ -3,8 +3,8 @@ Programs coded in assembly 68k for education purposes
 
 #### Available programs:
  - If - Else condition A > B
- - While loop with specified condition
  - Moving a variable into a specified location
+ - While loop with specified condition
  - Loop with DBRA
  - Scrolling an arraying while adding its elements
  - Copying the odd numbers from an array to another
