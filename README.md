@@ -2,7 +2,7 @@
 Programs coded in assembly 68k for education purposes
 
 #### Available programs:
- - IF - Else condition A > B
+ - If - Else condition A > B
  - While loop with specified condition
  - Moving a variable into a specified location
  - Loop with DBRA
