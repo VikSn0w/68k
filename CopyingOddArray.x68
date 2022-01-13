@@ -22,7 +22,7 @@ LOOP:
 
 ENDLOOP:
     add.w    #2,D0       ;D0 += 2
-    dbra     D2,LOOP     ;itera fino a D2 uguale a -1
+    dbra     D2,LOOP     ;until D2 = -1
     jmp ENDCYCLE
     
 IF:
