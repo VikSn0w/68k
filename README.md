@@ -6,7 +6,7 @@ Programs coded in assembly 68k for education purposes
  - Moving a variable into a specified location
  - While loop with specified condition
  - Loop with DBRA
- - Scrolling an arraying while adding its elements
+ - Scrolling an array while adding its elements
  - Copying the odd numbers from an array to another
  - Copying the even numbers from an array to another
  - Selection Sort in Ascending order
