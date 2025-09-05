@@ -11,6 +11,7 @@ Programs coded in assembly 68k for education purposes
  - [Copying the even numbers from an array to another](https://github.com/VikSn0w/68k/blob/main/CopyingEvenArray.x68)
  - [Selection Sort in Ascending order](https://github.com/VikSn0w/68k/blob/main/SelectionSortAsc.x68)
  - [Bubble Sort in Ascending order](https://github.com/VikSn0w/68k/blob/main/BubbleSortAsc.x68)
+ - [Merge Sort](https://github.com/VikSn0w/68k/blob/main/mergesort.X68)
  - [Print a string on screen](https://github.com/VikSn0w/68k/blob/main/PrintScreen.x68)
  
 
